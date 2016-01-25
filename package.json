@@ -1,0 +1,26 @@
+{
+    "name": "stb-component",
+    "version": "1.3.0",
+    "description": "Base visual component implementation.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "main": "spa-component",
+    "repository": "stbsdk/component",
+    "scripts": {
+        "lint": "eslint *.js",
+        "jsdoc": "jsdoc --destination doc *.js readme.md"
+    },
+    "dependencies": {
+        "spa-component": "1.*.*"
+    },
+    "keywords": [
+        "stb",
+        "stbsdk",
+        "framework",
+        "visual",
+        "component"
+    ],
+    "license": "GPL-3.0"
+}
