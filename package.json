@@ -6,7 +6,6 @@
         "name": "Stanislav Kalashnik",
         "email": "darkpark.main@gmail.com"
     },
-    "main": "../spa-component",
     "repository": "stbsdk/component",
     "scripts": {
         "lint": "eslint *.js",
