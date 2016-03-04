@@ -2,10 +2,9 @@
 // @license GNU GENERAL PUBLIC LICENSE Version 3
 
 // parent
-@import "spa-component/sass/main.scss";
+@import "../node_modules/spa-component/sass/main.scss";
 
-/* stb-component */
-
+/* stb-component: release */
 .component {
 	div {
 		// The width and height (also including min-width, max-width, min-height and max-height properties) of an element
