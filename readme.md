@@ -6,7 +6,7 @@ Base visual component implementation
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
-It's a wrapper around the [component](https://github.com/spasdk/component) module.
+It's a wrapper around the [SPA component](https://github.com/spasdk/component).
 
 
 ## Installation ##
