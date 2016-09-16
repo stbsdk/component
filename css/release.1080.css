@@ -1,9 +1,0 @@
-/* spa-component: release */
-.component {
-    box-sizing: border-box; }
-    .component.hidden {
-        display: none !important; }
-
-/* stb-component: release */
-.component div {
-    -webkit-box-sizing: border-box; }

@@ -4,11 +4,14 @@
 // parent
 @import "../node_modules/spa-component/sass/main.scss";
 
-/* stb-component: release */
-.component {
-	div {
-		// The width and height (also including min-width, max-width, min-height and max-height properties) of an element
-		// are calculated as the width/height of the content plus the padding and border.
-		-webkit-box-sizing: border-box;
-	}
+@mixin stb-component-release {
+    @include spa-component-release;
+
+    // The width and height (also including min-width, max-width, min-height and max-height properties) of an element
+    // are calculated as the width/height of the content plus the padding and border.
+    -webkit-box-sizing: border-box;
+}
+
+@mixin stb-component-develop {
+    @include spa-component-develop;
 }
