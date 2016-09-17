@@ -1,6 +1,7 @@
 Base visual component implementation
 ====================================
 
+[![Build Status](https://img.shields.io/travis/stbsdk/component.svg?style=flat-square)](https://travis-ci.org/stbsdk/component)
 [![NPM version](https://img.shields.io/npm/v/stb-component.svg?style=flat-square)](https://www.npmjs.com/package/stb-component)
 [![Dependencies Status](https://img.shields.io/david/stbsdk/component.svg?style=flat-square)](https://david-dm.org/stbsdk/component)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
